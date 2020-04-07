@@ -1,5 +1,6 @@
 // 1. Display an alert dialog with the content:
 //"Warning! This message will self-destruct in"
+alert("Warning! This message will self-destruct in")
 
 
 // 2. Display a "3... 2... 1..." countdown using 3 alert dialog boxes
